@@ -1,4 +1,4 @@
-# 🚀 AI-Powered E-Commerce Executive Analytics Platform  
+# 🚀 CommerceIQ — AI-Powered E-Commerce Intelligence Platform
 ### MySQL + Power BI + Gemini AI
 
 ---
