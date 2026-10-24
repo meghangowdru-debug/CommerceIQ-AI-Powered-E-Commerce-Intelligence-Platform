@@ -339,7 +339,7 @@ This simulates real-world responsibilities of a remote data analyst / analytics 
 
 ## 👤 Author
 
-Swapitsneil  
+Meghan Gowda B Y
 Data Analytics | SQL | Power BI | AI-Augmented Business Intelligence
 
 ---
